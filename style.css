@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background-color: #ffe6f0;
+  text-align: center;
+  color: #b1356f;
+}
+
+.hero {
+  padding: 20px;
+}
+
+.cabecalho-img {
+  max-width: 90%;
+  height: auto;
+}
+
+.citacao {
+  font-size: 14px;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+.autora {
+  color: #a64d79;
+  font-weight: bold;
+}
