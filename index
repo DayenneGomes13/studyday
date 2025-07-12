@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Study Day</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="hero">
+    <img src="img/cabecalho.png" alt="Study Day" class="cabecalho-img">
+
+    <p class="citacao">
+      A força se consegue com fracassos e não com os sucessos.<br>
+      <span class="autora">— Coco Chanel</span>
+    </p>
+  </header>
+
+</body>
+</html>
