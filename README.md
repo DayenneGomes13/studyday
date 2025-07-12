@@ -1,2 +1,0 @@
-# studyday
-Study with me
